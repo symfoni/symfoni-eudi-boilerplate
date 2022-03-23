@@ -4,7 +4,7 @@ This project demonstrate the usage of WalletConnect, Veramo with the use of Reac
 
 ## Get started
 
-do `npm install`in `backend`, `dapp`and ìdentitywallet
+do `npm install`in `backend`, `dapp`and  `identitywallet`
 
 Run backend
 `cd backend `
