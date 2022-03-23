@@ -1,4 +1,4 @@
-# VC issuer, verifier and holder
+# Symfoni EUDI boilerplate
 
 This project demonstrate the usage of WalletConnect, Veramo with the use of React Native, Nestjs and React.
 
